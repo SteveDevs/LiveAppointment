@@ -8,6 +8,7 @@ Sceenshots:
 ![today_client](https://user-images.githubusercontent.com/29339618/112988451-247f1f00-9164-11eb-97dd-a3f5cad86e82.png)
 ![Screenshot from 2021-03-29 15-25-58](https://user-images.githubusercontent.com/29339618/112988274-f0a3f980-9163-11eb-9c91-79502dca7968.png)
 ![Screenshot from 2021-03-29 18-22-07](https://user-images.githubusercontent.com/29339618/112988283-f26dbd00-9163-11eb-987a-2aaff1a631b2.png)
+<br>
 Requirements:
 <p>PHP >= 7.2</p>
 <p>BCMath PHP Extension</p>
