@@ -2,7 +2,7 @@
 
 This is an application that allows for managing apppointments, It includes permission handling, roles, services etc. The application makes use of Laravel, Tailwind, Alpine JS and Livewire.
 
-Sceenshots:
+Screenshots:
 
 ![client_calendar](https://user-images.githubusercontent.com/29339618/112988443-234df200-9164-11eb-9bae-2a451150ef5d.png)
 ![today_client](https://user-images.githubusercontent.com/29339618/112988451-247f1f00-9164-11eb-97dd-a3f5cad86e82.png)
