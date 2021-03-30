@@ -6,7 +6,7 @@
         "framework",
         "laravel"
     ],
-    "license": "MIT",
+    
     "require": {
         "php": "^7.3|^8.0",
         "asantibanez/livewire-calendar": "^2.1",
