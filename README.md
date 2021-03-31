@@ -1,6 +1,6 @@
 # LiveAppointment
 
-This is an application that allows for managing apppointments, It includes permission handling, roles, services etc. The application makes use of Laravel, Tailwind, Alpine JS and Livewire.
+This is an application that allows for managing apppointments, it includes permission handling, roles, services etc. The application makes use of Laravel, Tailwind, Alpine JS and Livewire.
 
 Screenshots:
 
